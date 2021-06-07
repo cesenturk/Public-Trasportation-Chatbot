@@ -1,0 +1,33 @@
+Nazilli'den Sultan Hisar'a öğrenci ücreti 2.80 TL'dir.
+Karacasu'dan YeniPazar'a giden yedinci seferimiz saat 18.20'de kalkmaktadır.
+Karacasu'dan YeniPazar'a giden 7. seferimiz saat 18.20'de kalkmaktadır.
+Adü'den Otogar'a giden birinci seferimiz saat 06.15'te kalkmaktadır.
+Adü'den Otogar'a giden 1. seferimiz saat 06.15'te kalkmaktadır.
+Kuşadası’ndan Karpuzlu'ya son otobüs seferi saat 19:15'tedir.
+607 no.'lu Otobüs Hattı'nın fiyatlandırması öğrenciler için 2.60 TL ile 3.50 TL arasında, öğrenci olmayanlarda 3 TL ile 3.90 TL arasında değişmektedir.
+605 no.'lu Otobüs Hattı’nın Forum Aydın'a varış süresi 10 dakikadır.
+Adü durağına 605 numaralı otobüsümüz gitmektedir.
+Adü'den Otogar'a giden üçüncü seferimiz saat 09.45'te kalkmaktadır.
+Adü'den Otogar'a giden 3. seferimiz saat 09.45'te kalkmaktadır.
+Köşk - Çine istikametinde giden 2.sefer,4.sefer ve 6.seferlerimizde engelli arabasıyla seyahat edilebilmektedir.
+Otogardan Adü’ye ilk sefer 6:15'te başlıyor.
+SultanHisar'dan Kuyucak'a tam yolcu ücreti 3.40 TL'dir.
+İncirliova'dan Söke'ye öğrenci ücreti 2.50 TL'dir.
+Kuşadası durağına 606 numaralı otobüsümüz gitmektedir.
+608 numaralı otobüsümüz sırasıyla Yeni Pazar, Nazilli, Sultan Hisar, Kuyucak, Karacasu duraklarına gitmektedir.
+Çine'den Köşk'e giden yedinci seferimiz saat 20.45'te kalkmaktadır.
+Çine'den Köşk'e giden 7. seferimiz saat 20.45'te kalkmaktadır.
+606 no.'lu Otobüs Hattı'nın fiyatlandırması öğrenciler için 2.50 TL ile 4.40 TL arasında, öğrenci olmayanlarda 2.90 TL ile 4.80 TL arasında değişmektedir.
+Söke'den Kuşadası'na tam yolcu ücreti 3.90 TL'dir.
+Otogar - Adü istikametinde giden otobüs seferlerimizin hepsinde engelli arabasıyla seyahat edilebilmektedir.
+607 no.'lu Otobüs Hattı'nın Germencik'e varış süresi 30 dakikadır.
+Köşk'ten Çine'ye giden ikinci seferimiz saat 10.15'te kalkmaktadır.
+Köşk'ten Çine'ye giden 2. seferimiz saat 10.15'te kalkmaktadır.
+608 no.'lu Otobüs Hattı'nın Kuyucak'a varış süresi 1 saat 20 dakikadır.
+İncirliova'dan Kuşadası'na öğrenci ücreti 2.70 TL'dir.
+Forum Aydın durağından 605 numaralı otobüs geçiyor.
+Otobüs ücreti 2.90 TL’dir
+Germencik durağına 607 numaralı otobüsümüz gitmektedir.
+Köşk'ten Çine'ye tam yolcu ücreti 3.90 TL'dir.
+Kuyucak durağına 608 numaralı otobüsümüz gitmektedir.
+605 numara Adü, Forum, Meydan, Tren Garı ve Otogardan geçiyor.
